@@ -8,10 +8,11 @@ namespace acfour_aleix_tuneu
             const string MsgSize = "Quants números vols introduïr?";
             const string MsgInput = "Introdueix el valor #{0}: ";
             const string MsgError = "Error. Introdueix un valor enter positiu.";
-            const string MsgResult = "Valors introduïts: ";
+            const string MsgResult = "Valors ordenants descendentment: ";
 
             int size = 0;
             int[] nums;
+            int[] sortedNums;
 
             // Demanar i validar número de valors
             Console.WriteLine(MsgSize);
@@ -36,13 +37,40 @@ namespace acfour_aleix_tuneu
                 Console.WriteLine();
             }
 
-            // Mostrar valors
+            // Ordenar Descendentment
+            sortedNums = new int[size];
+
+            sortedNums = SortDescendent(nums);
+
+            // Mostrar valors ordenats descendentment
             Console.WriteLine(MsgResult);
-            foreach(int num in nums)
+            foreach(int sortedNum in sortedNums)
             {
-                Console.Write(num + " ");
+                Console.Write(sortedNum + " ");
             }
             Console.WriteLine();
+
+            
+        }
+
+        public static int[] SortDescendent(int[] nums)
+        {
+            int aux = 0;
+
+            for (int i = 0; i < nums.Length - 1; i++)
+            {
+                for (int j = i + 1; j < nums.Length; j++)
+                {
+                    if (nums[i] < nums[j])
+                    {
+                        aux = nums[i];
+                        nums[i] = nums[j];
+                        nums[j] = aux;
+                    }
+                }
+            }
+
+            return nums;
         }
     }
 }
