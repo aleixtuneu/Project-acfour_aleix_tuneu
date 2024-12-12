@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\isard\\Documents\\Programació\\T2\\acfour_aleix_tuneu\\acfour_aleix_tuneu\\acfour_aleix_tuneu.csproj": {}
+    "C:\\Users\\aleix\\OneDrive\\Escritorio\\DAMv\\M03 Programació\\T2\\acfour_aleix_tuneu\\acfour_aleix_tuneu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\isard\\Documents\\Programació\\T2\\acfour_aleix_tuneu\\acfour_aleix_tuneu\\acfour_aleix_tuneu.csproj": {
+    "C:\\Users\\aleix\\OneDrive\\Escritorio\\DAMv\\M03 Programació\\T2\\acfour_aleix_tuneu\\acfour_aleix_tuneu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\isard\\Documents\\Programació\\T2\\acfour_aleix_tuneu\\acfour_aleix_tuneu\\acfour_aleix_tuneu.csproj",
+        "projectUniqueName": "C:\\Users\\aleix\\OneDrive\\Escritorio\\DAMv\\M03 Programació\\T2\\acfour_aleix_tuneu\\acfour_aleix_tuneu.csproj",
         "projectName": "acfour_aleix_tuneu",
-        "projectPath": "C:\\Users\\isard\\Documents\\Programació\\T2\\acfour_aleix_tuneu\\acfour_aleix_tuneu\\acfour_aleix_tuneu.csproj",
-        "packagesPath": "C:\\Users\\isard\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\isard\\Documents\\Programació\\T2\\acfour_aleix_tuneu\\acfour_aleix_tuneu\\obj\\",
+        "projectPath": "C:\\Users\\aleix\\OneDrive\\Escritorio\\DAMv\\M03 Programació\\T2\\acfour_aleix_tuneu\\acfour_aleix_tuneu.csproj",
+        "packagesPath": "C:\\Users\\aleix\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aleix\\OneDrive\\Escritorio\\DAMv\\M03 Programació\\T2\\acfour_aleix_tuneu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\isard\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aleix\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

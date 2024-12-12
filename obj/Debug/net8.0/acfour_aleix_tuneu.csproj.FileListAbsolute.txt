@@ -1,0 +1,15 @@
+C:\Users\aleix\OneDrive\Escritorio\DAMv\M03 Programació\T2\acfour_aleix_tuneu\bin\Debug\net8.0\acfour_aleix_tuneu.exe
+C:\Users\aleix\OneDrive\Escritorio\DAMv\M03 Programació\T2\acfour_aleix_tuneu\bin\Debug\net8.0\acfour_aleix_tuneu.deps.json
+C:\Users\aleix\OneDrive\Escritorio\DAMv\M03 Programació\T2\acfour_aleix_tuneu\bin\Debug\net8.0\acfour_aleix_tuneu.runtimeconfig.json
+C:\Users\aleix\OneDrive\Escritorio\DAMv\M03 Programació\T2\acfour_aleix_tuneu\bin\Debug\net8.0\acfour_aleix_tuneu.dll
+C:\Users\aleix\OneDrive\Escritorio\DAMv\M03 Programació\T2\acfour_aleix_tuneu\bin\Debug\net8.0\acfour_aleix_tuneu.pdb
+C:\Users\aleix\OneDrive\Escritorio\DAMv\M03 Programació\T2\acfour_aleix_tuneu\obj\Debug\net8.0\acfour_aleix_tuneu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleix\OneDrive\Escritorio\DAMv\M03 Programació\T2\acfour_aleix_tuneu\obj\Debug\net8.0\acfour_aleix_tuneu.AssemblyInfoInputs.cache
+C:\Users\aleix\OneDrive\Escritorio\DAMv\M03 Programació\T2\acfour_aleix_tuneu\obj\Debug\net8.0\acfour_aleix_tuneu.AssemblyInfo.cs
+C:\Users\aleix\OneDrive\Escritorio\DAMv\M03 Programació\T2\acfour_aleix_tuneu\obj\Debug\net8.0\acfour_aleix_tuneu.csproj.CoreCompileInputs.cache
+C:\Users\aleix\OneDrive\Escritorio\DAMv\M03 Programació\T2\acfour_aleix_tuneu\obj\Debug\net8.0\acfour_aleix_tuneu.sourcelink.json
+C:\Users\aleix\OneDrive\Escritorio\DAMv\M03 Programació\T2\acfour_aleix_tuneu\obj\Debug\net8.0\acfour_aleix_tuneu.dll
+C:\Users\aleix\OneDrive\Escritorio\DAMv\M03 Programació\T2\acfour_aleix_tuneu\obj\Debug\net8.0\refint\acfour_aleix_tuneu.dll
+C:\Users\aleix\OneDrive\Escritorio\DAMv\M03 Programació\T2\acfour_aleix_tuneu\obj\Debug\net8.0\acfour_aleix_tuneu.pdb
+C:\Users\aleix\OneDrive\Escritorio\DAMv\M03 Programació\T2\acfour_aleix_tuneu\obj\Debug\net8.0\acfour_aleix_tuneu.genruntimeconfig.cache
+C:\Users\aleix\OneDrive\Escritorio\DAMv\M03 Programació\T2\acfour_aleix_tuneu\obj\Debug\net8.0\ref\acfour_aleix_tuneu.dll
