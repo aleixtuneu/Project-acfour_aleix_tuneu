@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "acfour_aleix_tuneu", "acfour_aleix_tuneu.csproj", "{98FB81EA-3ACA-451F-B81E-D2F4B2B43900}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "acfour_aleix_tuneu.Tests", "..\acfour_aleix_tuneu.Tests\acfour_aleix_tuneu.Tests.csproj", "{731C4FD1-E8BE-407D-BE53-E592776AF0FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98FB81EA-3ACA-451F-B81E-D2F4B2B43900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98FB81EA-3ACA-451F-B81E-D2F4B2B43900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98FB81EA-3ACA-451F-B81E-D2F4B2B43900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98FB81EA-3ACA-451F-B81E-D2F4B2B43900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{731C4FD1-E8BE-407D-BE53-E592776AF0FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{731C4FD1-E8BE-407D-BE53-E592776AF0FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{731C4FD1-E8BE-407D-BE53-E592776AF0FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{731C4FD1-E8BE-407D-BE53-E592776AF0FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {812121EC-2529-41BB-AA52-7D9F6BAF5AFF}
+	EndGlobalSection
+EndGlobal
