@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("acfour_aleix_tuneu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14ba7e437f654ae153dcede0b294c7e5822422b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("acfour_aleix_tuneu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("acfour_aleix_tuneu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
